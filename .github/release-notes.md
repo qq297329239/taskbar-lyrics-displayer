@@ -14,7 +14,7 @@
 
 ### 📦 下载与使用
 
-下载软件安装包 `WindowsTaskbarLyrics-2.17.1-Setup.exe` 安装使用，或下载 `WindowsTaskbarLyrics-2.17.1-x64-portable.zip` 免安装版（解压后直接运行）。安装向导提供简体中文界面。
+下载软件安装包 `WindowsTaskbarLyrics-2.17.2-Setup.exe` 安装使用，或下载 `WindowsTaskbarLyrics-2.17.2-x64-portable.zip` 免安装版（解压后直接运行）。安装向导提供简体中文界面。
 
 如果安装前检测到 WindowsTaskbarLyrics 正在运行，请先通过系统托盘图标退出软件，再点击安装程序中的「重试」继续安装。发布包包含前置依赖时，安装程序会自动安装 Microsoft Visual C++ 运行库。
 
